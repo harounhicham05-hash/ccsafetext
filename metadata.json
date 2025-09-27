@@ -1,0 +1,5 @@
+{
+  "name": "AI-SafeText Rewriter",
+  "description": "An expert system to transform any user-provided text into a version that complies with general AI safety and content policies, while preserving as much of the original meaning as possible.",
+  "requestFramePermissions": []
+}
